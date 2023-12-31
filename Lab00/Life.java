@@ -3,8 +3,6 @@ import java.util.*;
 /**
  * This class creates a 2D array of boolean values and fills them with either dead or alive values.
  * @author Jordan Rios
- * @author Evan
- * @author Rick
  * @date 8/30/22
  * CSCI 162
  * Lab 00
